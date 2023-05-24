@@ -1,14 +1,5 @@
-# Project-2-Crowdfunding-ETL
-## Group Number 2:
-* Daniel Marquez
-* Diana Peiran 
-* Mert R. Oztop
-* Jacob F. Evans 
-
-
-![Query Kings Logo](https://user-images.githubusercontent.com/128439353/228010385-dfebd498-d15c-408a-9f7e-8ddd3b25fbd2.jpg)
-
-Summary: For this Extract, transform, and load (ETL) mini project, we worked within our group to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV files data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
+## Project Description 
+For this Extract, transform, and load (ETL) mini project, we worked within our group to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV files data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 
 ### Requirements
 ### A Category DataFrame is Created (15 points)
@@ -65,5 +56,11 @@ Verify that each table has the correct data by running a SELECT statement for ea
 ### Subcategory
 
 ![image](https://user-images.githubusercontent.com/128439353/228033099-acd9a069-a722-4960-b870-dbb828430b9b.png)
+
+## Contributors
+* Daniel Marquez
+* Diana Peiran 
+* Mert R. Oztop
+* Jacob F. Evans 
 
 
